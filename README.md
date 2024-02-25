@@ -8,9 +8,13 @@ Portfolio Landing Page: A responsive landing page that introduces myself highlig
 
 Stopwatch Application: A simple web-based stopwatch application implemented using HTML, CSS, and JavaScript.
 
+
 Technologies Used
+
 HTML5
+
 CSS3
+
 JavaScript
 
 Features
