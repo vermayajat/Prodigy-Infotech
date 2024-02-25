@@ -1,0 +1,67 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.png'); /* Add your background image file */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    color: #333; /* Set text color */
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #0e0d0d;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  .intro {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .about {
+    padding: 20px;
+  }
+  
+  .about img {
+    max-width: 20%;
+    border-radius:100%;
+  }
+  
+  .skills {
+    padding: 20px;
+  }
+  
+  .projects {
+    padding: 20px;
+  }
+  
+  .projects .project {
+    margin-bottom: 20px;
+  }
+  
+  .contact {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #0b0b0b;
+    color: #981313;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
